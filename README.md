@@ -71,7 +71,6 @@ Courses Used:
 ---
 
 ## ✅ Tips for Success
-- Use Python for implementation unless C++ is specifically helpful
 - Maintain a problem journal or Notion table
 - Timebox learning sessions (e.g., 90 minutes per topic/day)
 - Focus on understanding patterns and solving problems daily
